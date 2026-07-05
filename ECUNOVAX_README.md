@@ -8,7 +8,6 @@ Built and shipped by a solo founder. Currently live and generating revenue.
 
 > **Note:** Source code is private — the platform is live in production.
 > This repository serves as project documentation.
-> Repository: [bertanerguc/Project-documentation](https://github.com/bertanerguc/Project-documentation)
 
 ---
 
