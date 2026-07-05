@@ -106,4 +106,3 @@ Now applying the same approach to property intelligence at Altitude Holdings.
 
 [LinkedIn](https://linkedin.com/in/bertan-erguc-b621b4195) ·
 [GitHub](https://github.com/bertanerguc) ·
-[Altitude Holdings](https://altitudeholdings.com)
