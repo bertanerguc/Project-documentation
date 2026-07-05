@@ -1,6 +1,6 @@
 # ECUNOVAX
 
-**Automotive dealer portal — Turkey & MENA region**
+**Automotive dealer portal — US & European markets**
 
 A full-stack B2B platform connecting automotive dealerships with buyers,
 enabling inventory management, lead generation, and digital sales workflows.
@@ -14,7 +14,7 @@ Built and shipped by a solo founder. Currently live and generating revenue.
 
 ## Overview
 
-ECUNOVAX is an automotive dealer portal built for the Turkish and MENA market.
+ECUNOVAX is an automotive dealer portal built for the US and European automotive market.
 The platform enables dealerships to manage inventory, receive qualified leads,
 and digitize their sales process — replacing phone-based and walk-in-only workflows.
 
